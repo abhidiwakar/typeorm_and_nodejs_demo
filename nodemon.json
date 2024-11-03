@@ -1,0 +1,10 @@
+{
+  "watch": ["src", ".env"],
+  "ext": "ts,env",
+  "ignore": ["*.test.ts", "dist", "node_modules"],
+  "delay": "3",
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "exec": "ts-node src/main.ts"
+}
