@@ -2,6 +2,9 @@
 
 A example showing how to use [TypeORM](https://typeorm.io/) in Node.js and [Express.js](https://expressjs.com/) application.
 
+## Important
+The [main](https://github.com/abhidiwakar/typeorm_and_nodejs_demo) branch contains the starter code for this project. To get the final code, you'll need to view the [final-code](https://github.com/abhidiwakar/typeorm_and_nodejs_demo/tree/final-code) branch.
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
